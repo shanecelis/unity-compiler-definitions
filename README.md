@@ -12,6 +12,7 @@ Example
 -------
 
 For a project, the `CompilerDefinitions.cs` script produces this output to the debug log.
+<img align="right" width="50%" src="example.png"/>
 
 ```
 UNITY_EDITOR defined.
@@ -26,7 +27,6 @@ UNITY_2018 defined.
 UNITY_2018_2 defined.
 UNITY_2018_2_0 defined.
 ```
-<img align="right" width="50%" src="example.png"/>
 
 Setup
 -----
