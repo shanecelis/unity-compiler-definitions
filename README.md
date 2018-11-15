@@ -6,7 +6,7 @@ This script shows all the operant [Unity platform specific compiler definitions]
 Motivation
 ----------
 
-I wrote this because I wanted to easily determine the delta between two Unity settings while maintaining [Minibuffer Console](http://seawisphunter.com/projects/minibuffer/) and [Custom Pointer](http://seawisphunter.com/products/custom-pointer/).  Writing a t4 script to just go through the numerous possibilities seemed a sane route.  (It's the UNITY_X_Y_Z part that'll get ya.)
+I wrote this because I wanted to easily determine the delta between two Unity settings while maintaining [Minibuffer Console](http://seawisphunter.com/products/minibuffer/) and [Custom Pointer](http://seawisphunter.com/products/custom-pointer/).  Writing a t4 script to just go through the numerous possibilities seemed a sane route.  (It's the UNITY_X_Y_Z part that'll get ya.)
 
 Example
 -------
