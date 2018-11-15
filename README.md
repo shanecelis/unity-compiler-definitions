@@ -27,6 +27,8 @@ UNITY_2018_2 defined.
 UNITY_2018_2_0 defined.
 ```
 
+![Console Output Example](example.png)
+
 Setup
 -----
 
